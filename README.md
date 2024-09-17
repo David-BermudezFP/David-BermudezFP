@@ -16,7 +16,7 @@ El repositorio será mantenido durante el curso 2024-25
 
 ![CPU](https://img.shields.io/badge/Intel-Core_i7_11800H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-![RAM](https://img.shields.io/badge/RAM_32_GB-FF0000?style=for-the-badge&logo=intel&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-RAM_32_GB-FF0000?style=for-the-badge&logo=&logoColor=white)
 
 ![SO](https://img.shields.io/badge/Windows-Windows_11_PRO-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
