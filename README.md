@@ -1,6 +1,6 @@
 ![github-header-image (3)](https://github.com/user-attachments/assets/fc27def1-6aa7-4b88-bd39-a5d6e37a037b)
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/David-BermudezFP?style=social)
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 ![Mantenido](https://img.shields.io/badge/MAINTAINED%3F-YES-green.svg)
 
